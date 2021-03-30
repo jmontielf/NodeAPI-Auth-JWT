@@ -34,7 +34,7 @@ PORT=3000
 TOKEN_SECRET='XXXXX-XXXX-XXXX-XXXX-XXXX'
 ```
 
-rename the ***example.env*** to **.env **
+rename the ***example.env*** to **.env**
 
 Now execute the command:
 
